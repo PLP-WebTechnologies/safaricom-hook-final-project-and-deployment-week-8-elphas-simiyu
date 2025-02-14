@@ -19,7 +19,7 @@ The **Sweet Homes Hotel** website is a multi-page, responsive website designed t
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sweet-homes-hotel.git
+   git clone https://github.com/PLP-WebTechnologies/safaricom-hook-final-project-and-deployment-week-8-elphas-simiyu.git
    ```
 2. Navigate to the project folder:
    ```bash
