@@ -1,66 +1,53 @@
-### **Assignment: Final Project – Designing, Coding, and Deploying a Multipage Website** 🌐🚀
+# Sweet Homes Hotel Website
 
----
+## Overview
+The **Sweet Homes Hotel** website is a multi-page, responsive website designed to showcase the hotel's services, environment, and contact information. It is built using **HTML5, CSS3, and JavaScript** and is deployed on a hosting platform such as GitHub Pages, Netlify, or Vercel.
 
-#### **Objective:**
-The goal of this assignment is to create a **multipage website** that is fully designed, coded, and deployed on a hosting platform. By the end of this project, you will have a comprehensive understanding of **front-end web development**, including **HTML5**, **CSS3**, **JavaScript**, and **deployment** to live servers. This will showcase your ability to build a **responsive** and **interactive** website that is ready for production.
+## Features
+- **Home Page**: Introduction to the hotel, high-quality images, and welcoming content.
+- **About Page**: Details about the hotel's story, mission, vision, and team.
+- **Contact Page**: A contact form for inquiries and direct hotel contact details.
+- **Responsive Design**: Ensures compatibility across different devices.
+- **Form Validation**: JavaScript-based validation for the contact form.
 
----
+## Technologies Used
+- **HTML5**: For structuring web pages semantically.
+- **CSS3**: For styling and responsive design.
+- **JavaScript**: For interactivity and form validation.
+- **Deployment Platforms**: GitHub Pages, Netlify, or Vercel.
 
-### **Project Requirements:**
+## How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/sweet-homes-hotel.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd sweet-homes-hotel
+   ```
+3. Open `index.html` in a web browser.
 
-1. **Website Design**:
-   - **Design a website** that has at least **three pages** (e.g., Home, About, Contact).
-   - Each page should have **unique content** but maintain a consistent layout and design (using a **common theme** or **template**).
-   - The website should be **responsive**, meaning it must look good and function properly on devices of all sizes (desktop, tablet, mobile).
-   - You are encouraged to use **modern design trends** (flat design, minimalism, or material design) and **UI/UX principles**.
+## Deployment
+The website is hosted on [Live Website URL](#). To deploy the project:
+1. Upload all website files to GitHub, Netlify, or Vercel.
+2. Configure the domain settings if necessary.
 
-2. **HTML5 Structure**:
-   - Use semantic HTML5 tags where appropriate (`<header>`, `<footer>`, `<main>`, `<section>`, etc.).
-   - Ensure the website has a **navigation menu** that allows users to navigate between pages.
+## Project Structure
+```
+Sweet Homes Hotel/
+│── index.html       # Home Page
+│── about.html       # About Page
+│── contact.html     # Contact Page
+│── styles.css       # Stylesheet
+│── script.js        # JavaScript for interactivity
+│── images/          # Folder containing website images
+│── README.md        # Project documentation
+```
 
-3. **CSS3 Styling**:
-   - Create a **style sheet** using **CSS3** to design your website (you may use **CSS frameworks** like **Bootstrap** or **TailwindCSS** to speed up the process, but it is not mandatory).
-   - Implement **CSS3 transitions** and **animations** to enhance interactivity (e.g., hover effects, smooth scrolling, fade-in elements).
-   - Make sure your website is **responsive**, using **media queries** to adjust the layout for various screen sizes.
+## Author
+- **Elphas Simiyu**
+- Email: elphas.simiyu.123@gmail.com
 
-4. **JavaScript Functionality**:
-   - Incorporate **JavaScript** to add interactivity to your website (e.g., form validation, image sliders, modals, or interactive maps).
-   - Use **event listeners** (e.g., `onclick`, `onmouseover`) for user interactions.
-   - Ensure **form validation** is functional for all forms on the website (e.g., contact form, subscription form).
+## License
+This project is licensed under the MIT License.
 
-5. **Optimizations**:
-   - Optimize your images (compress them without losing quality).
-   - Minify your CSS and JavaScript files.
-   - Test your website on various browsers (Chrome, Firefox, Safari) and devices to ensure compatibility.
-
-6. **Deployment**:
-   - Deploy your website to a **hosting platform**. Choose one of the following platforms for deployment:
-     - **GitHub Pages**
-     - **Netlify**
-     - **Vercel**
-   - Ensure that your website is **live** and accessible on the internet via a unique URL.
-
----
-
-### **Deliverables:**
-
-1. **Website Files**:
-   - HTML files for each page (e.g., `index.html`, `about.html`, `contact.html`).
-   - CSS file(s) for styling.
-   - JavaScript file(s) for functionality.
-   - All images and assets used in the project (stored in an `assets/` folder).
-   - README.md file with a description of the project and instructions on how to run it locally.
-
-2. **Live Website**:
-   - Provide a **link to the live website** deployed on your chosen hosting platform (GitHub Pages, Netlify, or Vercel).
-   - Ensure that the website is fully functional, responsive, and looks good across devices.
-
-3. **Documentation**:
-   - Write a brief **documentation** (100-200 words) explaining:
-     - Your design choices (why you chose the layout, colors, etc.).
-     - The features you implemented using **JavaScript** (e.g., form validation, interactive elements).
-     - Any challenges you faced during development and how you overcame them.
-     - The deployment process you followed.
-
----
