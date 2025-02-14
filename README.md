@@ -28,7 +28,7 @@ The **Sweet Homes Hotel** website is a multi-page, responsive website designed t
 3. Open `index.html` in a web browser.
 
 ## Deployment
-The website is hosted on [Live Website URL](#). To deploy the project:
+The website is hosted on [Live Website URL](https://elphas-simiyu.github.io/plp-webtechnologies-classroom-safaricom-hook-final-project-and-deployment-week8safaricom-hook-fina/). To deploy the project:
 1. Upload all website files to GitHub, Netlify, or Vercel.
 2. Configure the domain settings if necessary.
 
